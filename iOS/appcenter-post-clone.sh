@@ -3,4 +3,4 @@
 # Comments
 
 echo "Build machine version is:"
-echo $APPCENTER_BUILD_VERSION
+echo $RELEASE_VERSION
